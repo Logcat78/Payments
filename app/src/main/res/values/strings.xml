@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Payments</string>
+    <string name="login_text">Логин</string>
+    <string name="login_button_text">войти</string>
+    <string name="password_text">Пароль</string>
+
+    <string name="id">id</string>
+    <string name="amount">amount</string>
+    <string name="created">created</string>
+    <string name="title">Title</string>
+</resources>
